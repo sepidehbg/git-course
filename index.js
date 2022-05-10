@@ -6,8 +6,6 @@ console.log("hello git");
 
 // fun
 
-console.log("hello git");
-alert("hi man..");
-console.log("hello git");
+// login changed
 
 // comment
