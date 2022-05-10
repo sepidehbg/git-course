@@ -9,5 +9,3 @@ console.log("hello git");
 console.log("hello git");
 alert("hi man..");
 console.log("hello git");
-
-// comment
